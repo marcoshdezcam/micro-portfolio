@@ -1,3 +1,11 @@
-h1 {
+.primary {
   color: #172b4d;
+}
+
+.secondary {
+  color: #36b37e;
+}
+
+.landing {
+  height: 75vh;
 }
