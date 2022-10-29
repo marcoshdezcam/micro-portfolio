@@ -26,3 +26,8 @@
 .button:active {
   background-color: #797979;
 }
+
+ul,
+#social-links {
+  list-style-type: none;
+}
