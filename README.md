@@ -10,6 +10,7 @@
 
 ## Live Demo
 
+![Screenshot](screenshot.png)
 [Live Demo](https://livedemo.com)
 
 ## Author
