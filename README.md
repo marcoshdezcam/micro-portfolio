@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo](https://livedemo.com)
+[Live Demo](https://marcoshdezcam.github.io/setup-mobile-first)
 
 ![Screenshot](screenshot.png)
 
