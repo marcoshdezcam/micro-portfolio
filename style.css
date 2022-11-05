@@ -55,3 +55,25 @@ ul,
 .projects .btn:hover {
   background-color: #36b37fa1;
 }
+
+.badge {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+}
+
+.projects .badge {
+  background-color: #ebf0ee;
+  font-style: normal;
+  color: #3a4a42;
+}
+
+.about-me .card {
+  background-color: #ebf0ee;
+}
+
+.about-me .badge {
+  background-color: #ffffff;
+  color: #36b37e;
+}
