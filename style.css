@@ -96,3 +96,9 @@ ul,
   background-color: #fff;
   color: #36b37e;
 }
+
+.about-me .description {
+  background-image: url("./icons/about-me_1.svg"), url("./icons/about-me_2.svg");
+  background-position: top right, bottom left;
+  background-repeat: no-repeat;
+}
