@@ -40,6 +40,7 @@ ul,
 
 .project-sample-img {
   height: 20rem;
+  background-color: #ebf0ee;
 }
 
 .projects .btn {
@@ -101,4 +102,5 @@ ul,
   background-image: url("./icons/about-me_1.svg"), url("./icons/about-me_2.svg");
   background-position: top right, bottom left;
   background-repeat: no-repeat;
+  height: 50vh;
 }
