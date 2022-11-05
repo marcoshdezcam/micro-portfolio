@@ -74,6 +74,16 @@ ul,
 }
 
 .about-me .badge {
-  background-color: #ffffff;
+  background-color: #fff;
   color: #36b37e;
+}
+
+.about-me .btn {
+  background-color: #36b37e;
+  border: none;
+  height: 3rem;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  align-self: center;
 }
