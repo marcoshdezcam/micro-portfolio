@@ -35,3 +35,15 @@ ul,
 .project-sample-img {
   height: 20rem;
 }
+
+.teal-button {
+  background-color: #36b37e;
+}
+
+.teal-button:hover {
+  background-color: #36b37fa1;
+}
+
+.skills {
+  background-color: #ebf0ee;
+}
