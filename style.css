@@ -10,12 +10,12 @@
   height: 75vh;
 }
 
-.social-button {
+.landing .button {
   border: none;
   background-color: rgb(255, 255, 255);
 }
 
-.social-button:hover {
+.landing .button:hover {
   top: 50%;
   background-color: #f7f7f74f;
   border-radius: 25%;
@@ -23,7 +23,13 @@
   transition: 0.5s;
 }
 
-.social-button:active {
+h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.landing .button:active {
   background-color: #797979;
 }
 
@@ -36,14 +42,16 @@ ul,
   height: 20rem;
 }
 
-.teal-button {
+.projects .btn {
   background-color: #36b37e;
+  border: none;
+  height: 3rem;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  align-self: center;
 }
 
-.teal-button:hover {
+.projects .btn:hover {
   background-color: #36b37fa1;
-}
-
-.skills {
-  background-color: #ebf0ee;
 }
