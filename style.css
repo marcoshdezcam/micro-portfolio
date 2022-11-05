@@ -31,3 +31,7 @@ ul,
 #social-links {
   list-style-type: none;
 }
+
+.project-sample-img {
+  height: 20rem;
+}
