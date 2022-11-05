@@ -52,6 +52,16 @@ ul,
   align-self: center;
 }
 
+.about-me .btn {
+  background-color: #36b37e;
+  border: none;
+  height: 3rem;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  align-self: center;
+}
+
 .projects .btn:hover {
   background-color: #36b37fa1;
 }
@@ -69,6 +79,15 @@ ul,
   color: #3a4a42;
 }
 
+.about-me {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #42526e;
+}
+
 .about-me .card {
   background-color: #ebf0ee;
 }
@@ -76,14 +95,4 @@ ul,
 .about-me .badge {
   background-color: #fff;
   color: #36b37e;
-}
-
-.about-me .btn {
-  background-color: #36b37e;
-  border: none;
-  height: 3rem;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  align-self: center;
 }
