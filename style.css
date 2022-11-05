@@ -10,12 +10,12 @@
   height: 75vh;
 }
 
-.button {
+.social-button {
   border: none;
   background-color: rgb(255, 255, 255);
 }
 
-.button:hover {
+.social-button:hover {
   top: 50%;
   background-color: #f7f7f74f;
   border-radius: 25%;
@@ -23,7 +23,7 @@
   transition: 0.5s;
 }
 
-.button:active {
+.social-button:active {
   background-color: #797979;
 }
 
