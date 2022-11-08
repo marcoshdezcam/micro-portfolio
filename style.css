@@ -10,12 +10,12 @@
   height: 75vh;
 }
 
-.button {
+.landing .button {
   border: none;
   background-color: rgb(255, 255, 255);
 }
 
-.button:hover {
+.landing .button:hover {
   top: 50%;
   background-color: #f7f7f74f;
   border-radius: 25%;
@@ -23,11 +23,84 @@
   transition: 0.5s;
 }
 
-.button:active {
+h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.landing .button:active {
   background-color: #797979;
 }
 
 ul,
 #social-links {
   list-style-type: none;
+}
+
+.project-sample-img {
+  height: 20rem;
+  background-color: #ebf0ee;
+}
+
+.projects .btn {
+  background-color: #36b37e;
+  border: none;
+  height: 3rem;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  align-self: center;
+}
+
+.about-me .btn {
+  background-color: #36b37e;
+  border: none;
+  height: 3rem;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  align-self: center;
+}
+
+.projects .btn:hover {
+  background-color: #36b37fa1;
+}
+
+.badge {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+}
+
+.projects .badge {
+  background-color: #ebf0ee;
+  font-style: normal;
+  color: #3a4a42;
+}
+
+.about-me {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #42526e;
+}
+
+.about-me .card {
+  background-color: #ebf0ee;
+}
+
+.about-me .badge {
+  background-color: #fff;
+  color: #36b37e;
+}
+
+.about-me .description {
+  background-image: url("./icons/about-me_1.svg"), url("./icons/about-me_2.svg");
+  background-position: top right, bottom left;
+  background-repeat: no-repeat;
+  height: 50vh;
 }
