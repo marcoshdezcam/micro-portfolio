@@ -55,6 +55,7 @@ ul,
   font-size: 17px;
   line-height: 24px;
   align-self: center;
+  cursor: pointer;
 }
 
 .projects .btn:hover {
