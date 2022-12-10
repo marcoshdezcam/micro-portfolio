@@ -252,26 +252,39 @@
         in touch.
       </h1>
 
-      <form class="d-flex flex-column my-4 p-2">
+      <form
+        action="https://formspree.io/f/xknedkqa"
+        method="POST"
+        class="d-flex flex-column my-4 p-2"
+      >
         <input
           type="text"
           class="form-control my-2 contact-form-input"
           id="fullName"
+          name="fullName"
           placeholder="Full name"
+          maxlength="30"
+          required
         />
 
         <input
           type="email"
           class="form-control my-2 contact-form-input"
           id="emailAddress"
+          name="emailAddress"
           placeholder="Email address"
+          required
         />
         <textarea
           placeholder="Enter text here"
           class="form-control contact-form-input"
           id="extraText"
+          name="extraText"
           rows="3"
+          maxlength="500"
+          required
         ></textarea>
+
         <button type="submit" class="btn btn-primary my-4">Get in touch</button>
       </form>
 
