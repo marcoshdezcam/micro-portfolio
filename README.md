@@ -6,6 +6,8 @@
 
   <br/>
 
+  <h3><b>Personal Portfolio</b></h3>
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
