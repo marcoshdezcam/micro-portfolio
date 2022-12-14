@@ -36,11 +36,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Personal Portfolio] <a name="about-project"></a>
+# 📖 [My personal Portfolio] <a name="about-project"></a>
 
 > This is my personal portfolio for the Microverse curriculum.
 
-**[your_project__name]** is a...
+**Micro-portfolio** is an initial version for my personal portfolio based on the Microverse proposals.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -177,21 +177,13 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Marcos Hernández Campos**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@marcoshdezcam](https://github.com/marcoshdezcam)
+- Twitter: [@MarcosHCampos](https://twitter.com/MarcosHCampos)
+- Linkedin: [Marcos Hernández](https://linkedin.com/marcos-hernández-56058119a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
