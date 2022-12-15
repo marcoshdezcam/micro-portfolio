@@ -10,12 +10,12 @@
   height: 75vh;
 }
 
-.landing .button {
+.button {
   border: none;
   background-color: rgb(255, 255, 255);
 }
 
-.landing .button:hover {
+.button:hover {
   top: 50%;
   background-color: #f7f7f74f;
   border-radius: 25%;
@@ -29,7 +29,11 @@ h1 {
   line-height: 52px;
 }
 
-.landing .button:active {
+h2 {
+  color: #42526e;
+}
+
+.button:active {
   background-color: #797979;
 }
 
@@ -43,7 +47,7 @@ ul,
   background-color: #ebf0ee;
 }
 
-.projects .btn {
+.btn {
   background-color: #36b37e;
   border: none;
   height: 3rem;
@@ -51,19 +55,10 @@ ul,
   font-size: 17px;
   line-height: 24px;
   align-self: center;
+  cursor: pointer;
 }
 
-.about-me .btn {
-  background-color: #36b37e;
-  border: none;
-  height: 3rem;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  align-self: center;
-}
-
-.projects .btn:hover {
+.btn:hover {
   background-color: #36b37fa1;
 }
 
@@ -103,4 +98,13 @@ ul,
   background-position: top right, bottom left;
   background-repeat: no-repeat;
   height: 50vh;
+}
+
+.contact-form-input {
+  border: 1px solid #d0d9d4;
+  border-radius: 4px;
+}
+
+.contact-form-input:valid {
+  border: 1px solid #088000;
 }

@@ -40,6 +40,7 @@
           of my work and experience. If you like what you see and have a project
           you need coded, don't hesitate to contact me.
         </p>
+
         <ul
           class="d-flex justify-content-evenly align-items-center my-2 p-2"
           id="social-links"
@@ -239,6 +240,97 @@
         </div>
       </div>
     </section>
+
+    <footer class="d-flex flex-column my-4 py-4">
+      <h1 class="primary p-2 m-2 text-center">
+        I'm always<br />
+        interested in<br />
+        hearing about <br />
+        new projects. <br />
+        If you'd like to <br />
+        chat please get <br />
+        in touch.
+      </h1>
+
+      <form
+        action="https://formspree.io/f/xknedkqa"
+        method="POST"
+        class="d-flex flex-column my-4 p-2"
+      >
+        <input
+          type="text"
+          class="form-control my-2 contact-form-input"
+          id="fullName"
+          name="fullName"
+          placeholder="Full name"
+          maxlength="30"
+          required
+        />
+
+        <input
+          type="email"
+          class="form-control my-2 contact-form-input"
+          id="emailAddress"
+          name="emailAddress"
+          placeholder="Email address"
+          required
+        />
+        <textarea
+          placeholder="Enter text here"
+          class="form-control contact-form-input"
+          id="extraText"
+          name="extraText"
+          rows="3"
+          maxlength="500"
+          required
+        ></textarea>
+
+        <button type="submit" class="btn btn-primary my-4">Get in touch</button>
+      </form>
+
+      <ul
+        class="d-flex justify-content-evenly align-items-center my-4 p-2"
+        id="social-links"
+      >
+        <li>
+          <a href="#twitter">
+            <button type="button" class="button">
+              <img src="icons/twitter.svg" alt="Twitter" />
+            </button>
+          </a>
+        </li>
+        <li>
+          <a href="#linkedin">
+            <button type="button" class="button">
+              <img src="icons/linkedin.svg" alt="Linkedin" />
+            </button>
+          </a>
+        </li>
+        <li>
+          <a href="#medium" class="button">
+            <button type="button" class="button">
+              <img src="icons/medium.svg" alt="Medium" />
+            </button>
+          </a>
+        </li>
+        <li>
+          <a href="#github" class="button">
+            <button type="button" class="button">
+              <img src="icons/github.svg" alt="Github" />
+            </button>
+          </a>
+        </li>
+        <li>
+          <a href="#github" class="button">
+            <button type="button" class="button">
+              <img src="icons/angellist.svg" alt="Angellist" />
+            </button>
+          </a>
+        </li>
+      </ul>
+
+      <h2 class="text-center mb-4 pb-4">marcoshdezcam@gmail.com</h2>
+    </footer>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
